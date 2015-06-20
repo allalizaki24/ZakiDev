@@ -1,3 +1,5 @@
+/* ilaysoft */
+
 function pageNavi(o) {
     var m = location.href,
         l = m.indexOf("/search/label/") != -1,
